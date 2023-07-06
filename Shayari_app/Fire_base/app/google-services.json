@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "876687973481",
+    "project_id": "pradipdatabase",
+    "storage_bucket": "pradipdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876687973481:android:274b3a5aa0adfd0ee316f8",
+        "android_client_info": {
+          "package_name": "com.example.fire_base"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876687973481-obtumhb1nl3d2krr8dk321el1ocd9dbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fire_base",
+            "certificate_hash": "0b7d6b211bc185d12a7e10528ba428e2a70dba5a"
+          }
+        },
+        {
+          "client_id": "876687973481-74u61uua26988vr051svvbn04hj4r0n2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1eLOT8_M678SMue-RV_h5yfoswrU70AA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876687973481-74u61uua26988vr051svvbn04hj4r0n2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
