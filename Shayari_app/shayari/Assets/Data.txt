@@ -1,0 +1,2 @@
+pubspec.yaml
+	- Assets/Images/Main_image/
