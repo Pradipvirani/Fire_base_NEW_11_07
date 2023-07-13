@@ -90,18 +90,14 @@
         android:layout_height="match_parent"
         android:layout_weight="1"
         android:gravity="center">
-   <TextView
-       android:layout_width="wrap_content"
-       android:layout_height="wrap_content"
-       android:text="Sign up with Google ?"
-       android:textSize="18dp"
-       android:id="@+id/signup_txt"
-       />
-        <ImageView
-            android:layout_width="40dp"
-            android:layout_height="40dp"
-            android:src="@drawable/google"
-            android:id="@+id/google"
-            android:layout_marginHorizontal="10dp"/>
+        <com.google.android.gms.common.SignInButton
+            android:id="@+id/google_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:text="Text"
+            android:layout_alignParentTop="true"
+            android:layout_margin="10dp"
+            android:textSize="18sp" />
     </LinearLayout>
 </LinearLayout>
